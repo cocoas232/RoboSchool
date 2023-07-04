@@ -1,0 +1,601 @@
+body{
+    font-family: 'Jost', sans-serif;
+    background-image: url(/Rectangle\ 1316.png);
+    background-repeat: no-repeat;
+}
+
+
+.header{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.item-nav{
+    margin-left: 40px;
+}
+
+.item-naw{
+    margin-left: 443px;
+}
+
+.item-robo {
+    margin-left: 100px;
+}
+
+.item {
+    display: flex;
+    margin-left: 370px;
+}
+
+.img2 {
+    margin-left: 924px;
+    margin-top: 162px;
+}
+
+
+.img1 {
+    margin-top: 62px;
+    margin-left: 1056px;
+    position: absolute;
+}
+
+.robo {
+  margin-left: 380px;
+  top: 344px;
+  color: white;
+  position: absolute;
+  font-weight: 600;
+  font-size: 70px;
+}
+
+.kyrs {
+    margin-left: 380px;
+    top: 496px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+}
+
+.kyrs1 {
+    margin-left: 380px;
+    top: 526px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+}
+
+
+.button {
+    background-color: #FF4500;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+     cursor: pointer;
+     color:white;
+     background-color: red;
+     left: 380px;
+     top: 590px;
+     position: absolute;
+     border-radius: 5px;
+}
+
+  
+.center {
+margin-left: 380px;
+margin-top: 120px;
+font-weight: 400;
+}
+
+.robo2 {
+    width: 891px;
+    height: 144px;
+    font-size: 30px;
+}
+
+.ten {
+    color: red;
+    font-size: 70px;
+    margin-left: 380px;
+    top: 1304px;
+    position: absolute;
+}
+
+.ty {
+    color: red;
+    font-size: 70px;
+    margin-left: 680px;
+    top: 1304px;
+    position: absolute;
+}
+
+.he {
+    color: red;
+    font-size: 70px;
+    margin-left: 980px;
+    top: 1304px;
+    position: absolute;
+}
+
+.hee {
+    color: red;
+    font-size: 70px;
+    margin-left: 1280px;
+    top: 1304px;
+    position: absolute;
+}
+
+.ymk {
+    font-size: 18px;
+    margin-left: 380px;
+    top: 1450px;
+    position: absolute;
+}
+
+.ty1 {
+    font-size: 18px;
+    margin-left: 680px;
+    top: 1450px;
+    position: absolute;
+}
+
+.he1 {
+    font-size: 18px;
+    margin-left: 980px;
+    top: 1450px;
+    position: absolute;
+}
+
+.hee1 {
+    font-size: 18px;
+    margin-left: 1280px;
+    top: 1450px;
+    position: absolute;
+}
+
+.center2 {
+    color: #141024;
+    font-size: 50px;
+    margin-left: 381px;
+    top: 1794px;
+    position: absolute;
+}
+
+.item-y {
+    color:#141024;
+    font-size: 24px;
+    margin-left: 381px;
+    top: 1934px;
+    position: absolute;
+}
+
+.item-u {
+    color:#141024;
+    font-size: 24px;
+    margin-left: 781px;
+    top: 1934px;
+    position: absolute;
+}
+
+.item-i {
+    color:#141024;
+    font-size: 24px;
+    margin-left: 1181px;
+    top: 1934px;
+    position: absolute;
+}
+
+.y-item {
+    color:#141024;
+    margin-left: 380px;
+    top: 1992px;
+    position: absolute;
+}
+
+.u-item {
+    color:#141024;
+    margin-left: 780px;
+    top: 1992px;
+    position: absolute;
+}
+
+.i-item {
+    color:#141024;
+    margin-left: 1180px;
+    top: 1992px;
+    position: absolute;
+}
+
+.pro {
+    color:#141024;
+    margin-left: 550px;
+    top: 2299px;
+    font-size: 50px;
+    position: absolute;
+}
+
+.img4 {
+    margin-left: 150px;
+    top: 2439px;
+    position: absolute;
+}
+
+.img5 {
+    margin-left: 550px;
+    top: 2439px;
+    position: absolute;
+}
+  
+.img6 {
+    margin-left: 950px;
+    top: 2439px;
+    position: absolute;
+}
+
+.img8 {
+    margin-left: 1350px;
+    top: 2439px;
+    position: absolute;
+}
+
+.img-4 { 
+position: absolute;
+color:#141024;
+top: 2959px;
+margin-left: 150px;
+font-size: 24px;
+}
+
+.img-5 {
+    position: absolute;
+color:#141024;
+top: 2959px;
+margin-left: 550px;
+font-size: 24px;
+}
+
+.img-6 {
+    position: absolute;
+color:#141024;
+top: 2959px;
+margin-left: 950px;
+font-size: 24px;
+}
+
+.img-8 {
+    position: absolute;
+color:#141024;
+top: 2959px;
+margin-left: 1350px;
+font-size: 24px;
+}
+
+.immg-4 { 
+    position: absolute;
+    color:#141024;
+    top: 3000px;
+    margin-left: 150px;
+    font-size: 18px;
+    }
+
+    .immg-5 {
+        position: absolute;
+    color:#141024;
+    top: 3000px;
+    margin-left: 550px;
+    font-size: 18px;
+    }
+
+    .immg-6 {
+        position: absolute;
+    color:#141024;
+    top: 3000px;
+    margin-left: 950px;
+    font-size: 18px;
+    }
+
+.immg-8 {
+    position: absolute;
+color:#141024;
+top: 3000px;
+margin-left: 1350px;
+font-size: 18px;
+}
+
+  .packet {
+    margin-left: 380px;
+    top: 3300px;
+    position: absolute;
+    color: #141024;
+    font-size: 50px;
+  }
+
+  .pro1 {
+    position: absolute;
+    top: 3485px;
+    margin-left: 497px;
+    color: white;
+    font-size: 30px;
+  }
+
+  .tyx {
+    position: absolute;
+    top: 3570px;
+    margin-left: 460px;
+    color: white;
+    font-size: 50px;
+  }
+
+  .ymk1 {
+    position: absolute;
+    top: 3716px;
+    margin-left: 450px;
+    color: white;
+    font-size: 18px;
+  }
+
+  .button1 {
+    background-color: #FF4500;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 54px;
+    gap: 10px;
+    font-size: 20px;
+    margin: 4px 2px;
+     cursor: pointer;
+     color:white;
+     background-color: red;
+     left: 440px;
+     top: 3826px;
+     position: absolute;
+     text-decoration: none;
+     border-radius: 5px;
+}
+
+.img10 {
+    margin-left: 380px;
+    top: 3460px;
+    position: absolute;
+
+}
+
+.img11{
+    margin-left: 780px;
+    top: 3460px;
+    position: absolute;
+}
+
+.img12{
+    margin-left: 1180px;
+    top: 3460px;
+    position: absolute;
+}
+
+.robo4 {
+    font-size: 30px;
+    top: 3485px;
+    position: absolute;
+    margin-left: 885px;
+    color: white;
+}
+
+.five{
+    font-size: 50px;
+    top: 3570px;
+    position: absolute;
+    margin-left: 852px;
+    color: white;
+}
+
+.ymk3{
+    position: absolute;
+    top: 3750px;
+    margin-left: 860px;
+    color: white;
+    font-size: 20px;
+}
+
+.button2 {
+    background-color: #FF4500;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 54px;
+    gap: 10px;
+    font-size: 20px;
+    margin: 4px 2px;
+     cursor: pointer;
+     color:white;
+     background-color: red;
+     left: 840px;
+     top: 3826px;
+     position: absolute;
+     text-decoration: none;
+     border-radius: 5px;
+}
+
+.robo5 {
+    font-size: 30px;
+    top: 3485px;
+    position: absolute;
+    margin-left: 1285px;
+    color: white;
+}
+
+.ten4{
+    font-size: 50px;
+    top: 3570px;
+    position: absolute;
+    margin-left: 1261px;
+    color: white;
+}
+
+.ymk4{
+    position: absolute;
+    top: 3750px;
+    margin-left: 1240px;
+    color: white;
+    font-size: 20px;
+}
+
+.button3 {
+    background-color: #FF4500;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 54px;
+    gap: 10px;
+    font-size: 20px;
+    margin: 4px 2px;
+     cursor: pointer;
+     color:white;
+     background-color: red;
+     left: 1240px;
+     top: 3826px;
+     position: absolute;
+     text-decoration: none;
+     border-radius: 5px;
+}
+
+.img13{
+    top: 4065px;
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 460px;
+    margin-left: -10px;
+}
+
+.kyrs2{
+    color: white;
+    margin-left: 440px;
+    top: 4171px;
+    font-size: 36px;
+    position: absolute;
+}
+
+.ak{
+    top: 4325px;
+    margin-left: 440px;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+}
+
+.text{
+    width: 500px;
+    height: 64px;
+    margin-left: 980px;
+    top: 4152px;
+    position: absolute;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.text1{
+    width: 500px;
+    height: 64px;
+    margin-left: 980px;
+    top: 4226px;
+    position: absolute;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.text2{
+    width: 500px;
+    height: 64px;
+    margin-left: 980px;
+    top: 4300px;
+    position: absolute;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.button4 {
+    background-color: #141024;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 184px;
+    gap: 10px;
+    font-size: 20px;
+    margin: 4px 2px;
+     cursor: pointer;
+     color:white;
+     background-color: #141024;
+     left: 987px;
+     top: 4374px;
+     position: absolute;
+     border-radius: 10px;
+     text-decoration: none;
+}
+
+.img14{
+    top: 4525px;
+    position: absolute;
+    margin-left: -10px;
+}
+
+.robo6{
+    margin-left: 100px;
+    top: 4565px;
+    position: absolute;
+    color: white;
+    font-size: 30px;
+}
+
+.robo7{
+    margin-left: 100px;
+    top: 4618px;
+    position: absolute;
+    color: #FFFFFFB2;
+    font-size: 16px;
+}
+
+.number{
+    margin-left: 1565px;
+    top: 4565px;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+}
+
+.vk {
+    margin-left: 400px;
+    top: 4600px;
+    color: white;
+    position: absolute;
+}
+
+.button5{
+    background-color: #141024;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 15px 54px;
+    gap: 10px;
+    font-size: 20px;
+    margin: 4px 2px;
+     cursor: pointer;
+     color: black;
+     background-color: white;
+     left: 550px;
+     top: 4600px;
+     position: absolute;
+     border-radius: 10px;
+}
+       
+    
